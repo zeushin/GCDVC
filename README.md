@@ -1,0 +1,1 @@
+# [SHOULD WE USE [WEAK SELF] IN GCD](https://zeushin.github.io/2017/09/26/should-we-use-weak-self-in-gcd/)
